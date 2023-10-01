@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('assets/pexels-lumn-167699.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top:10%;
+}
+.btn{
+    padding: .4em 2em;
+}
+.form-group{
+    padding: 0 2em;;
+}
+.form-text{
+    font-size: 12px;
+    padding-left: 5px;
+}
+.sub{
+    font-size: 13px;
+
+}
+.container{
+    border-radius: 20px;
+    background-color: rgba(255, 254, 254, 0.5);
+}
